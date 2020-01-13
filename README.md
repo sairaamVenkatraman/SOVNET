@@ -1,5 +1,5 @@
 # SOVNET
-This anonymous repository contains code for the ICLR submission "Building Deep Equivariant Capsule Networks"
+This repository contains code for the ICLR submission "Building Deep Equivariant Capsule Networks"
 Each folder contains pytorch code for the model, as well as the training details for experiments on various datasets. Thus, the folder 
 "svhn_experiment" contains code for the experiments done on SVHN for SOVNET.
 
